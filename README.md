@@ -14,6 +14,8 @@ http://47.105.207.43:8011/
 - 灵活的插件机制，支持传参，自动同步到客户端
 - web 管理界面简洁高效
 
+## 联系作者
+发issues。
 
 ## 功能
 
@@ -41,7 +43,7 @@ http://47.105.207.43:8011/
 			- 复制管理【支持取消同步，跳过错误，修改同步】
 			- 备份列表【展示实例备份情况】
 	- SQL上线
-	   - 基于[!goInception](https://github.com/hanchuanchuan/goInception.git)完成
+	   - 基于[goInception](https://github.com/hanchuanchuan/goInception.git)完成
 	   - SQL美化
 	   - SQL语句检测【自动SQL审核】
 	   - SQL执行【支持原生SQL方式、gh-ost、pt-osc、支持备份】
