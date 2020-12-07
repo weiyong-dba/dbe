@@ -7,8 +7,6 @@ http://121.37.236.104:8011/
 
 用户：admin/admin
 
-## 联系作者
-
 ## Features
 
 - 基于RESTful API 前后端分离
