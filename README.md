@@ -21,7 +21,7 @@ QQ群:978120898
 
 ## 前端源码
 
-前端源码基于[owl-frontend](https://github.com/TalkingData/owl-frontend)二次开发，感谢源作者的辛苦劳动。
+前端源码基于[owl-frontend](https://github.com/TalkingData/owl-frontend)二次开发，感谢原作者的辛苦劳动。
 
 ## 功能
 
